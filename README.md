@@ -6,7 +6,7 @@ Perfect! Here's your initial **`README.md`** file for the **AI-Powered Business 
 
 ### 📄 `README.md`
 
-```markdown
+
 # 🧠 AI-Powered Business Insight Generator
 
 Welcome to the AI-Powered Business Insight Generator – a tool that analyzes business data and generates human-readable insights using the power of OpenAI's language models. This project combines data analytics with generative AI to turn raw CSV files into meaningful KPI summaries, recommendations, and trends – all in natural language.
@@ -36,7 +36,7 @@ Upload your business data (e.g., sales, marketing, customer feedback, operations
 
 ## 📁 Folder Structure
 
-```
+
 AI-Powered-Business-Insight-Generator/
 │
 ├── README.md
@@ -56,7 +56,7 @@ AI-Powered-Business-Insight-Generator/
 │   └── helpers.py
 ├── .gitignore
 └── LICENSE
-```
+
 
 ## 🚀 How to Run
 
