@@ -95,6 +95,3 @@ Pull requests are welcome. For major changes, open an issue first to discuss wha
 ### Made with ❤️ by Shivani Murukannaiah
 ```
 
----
-
-Would you like me to move on to the **`requirements.txt`** and basic structure setup next? Or do you want a logo/banner image suggestion for the README first?
